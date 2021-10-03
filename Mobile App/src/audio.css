@@ -1,0 +1,38 @@
+@font-face{
+    font-family: 'FuturaBold';
+  src: url('./FuturaBold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+.fontf{
+  font-family: FuturaBold;
+}
+
+
+.App{
+    width: 50vw;
+}
+
+.App-header{
+    position: relative;
+    width: 50vw;
+    margin-right: 5px;
+}
+audio{
+    padding-top: 2vh;
+    /* background: linear-gradient(to right, #302b63, #24243e); */
+
+}
+#button{
+    border-style: none;
+    border-radius: 15px;
+    margin: 2%;
+    height: 6vh;
+    width: 7vw;
+    background: linear-gradient(to right, #302b63, #24243e);
+    color: beige;
+
+}
+#button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }

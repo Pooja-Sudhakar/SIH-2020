@@ -1,0 +1,14 @@
+  
+/* body{
+    background-color: ;
+} */
+
+@font-face{
+    font-family: 'FuturaBold';
+  src: url('./FuturaBold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+.fontf{
+  font-family: FuturaBold;
+}

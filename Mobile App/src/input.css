@@ -1,0 +1,21 @@
+@font-face{
+    font-family: 'FuturaBold';
+  src: url('./FuturaBold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+.fontf{
+    /* background: linear-gradient(to right, #302b63, #24243e); */
+
+  font-family: FuturaBold;
+  /* background: linear-gradient(to right, #302b63, #24243e); */
+
+}
+.colours{
+    background: linear-gradient(to right, #302b63, #24243e);
+}
+input.fontf.form-control{
+    background-color: #302C63;
+    border-style: none;
+    color: cornsilk;
+}
